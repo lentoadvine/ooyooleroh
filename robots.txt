@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iegahyoni.omockler.com/sitemap.xml
